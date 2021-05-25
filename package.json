@@ -1,0 +1,23 @@
+{
+  "name": "javascript",
+  "version": "1.0.0",
+  "description": "Javascript Practice",
+  "main": "main.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angeuwase/javascript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/angeuwase/javascript/issues"
+  },
+  "homepage": "https://github.com/angeuwase/javascript#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
